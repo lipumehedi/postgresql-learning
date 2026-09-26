@@ -459,5 +459,3 @@ WHERE id NOT IN (
 ```
 
 These patterns are useful for filtering, comparisons, reporting, and checking relationships between tables.
-
----
